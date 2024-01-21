@@ -72,7 +72,7 @@ material,mtl_sera_deagle
 
 You can repeat the same steps as above for other weapons. Just change the name of your viewmodel, worldmodel, and material files to something else to avoid conflict. You can also use different textures and properties for the material file.
 
-You can use the attached .gdt file for reference. The other file contains 16 different pre-applied xmodels to a `deserteagle_mp` so you can replace the material easily.
+You can use the attached .gdt file for reference. The other file contains a `deserteagle_mp` weapon with 16 different pre-applied xmodels so you can create 16 more materials with ease and have them applied automatically.
 
 ## Attachments
 <attachment name="z_eagle_shader.gdt" size="59.74 MB" url="https://cdn.discordapp.com/attachments/897839199485562901/897872013417386044/z_eagle_shader.gdt?ex=65ba6a79&is=65a7f579&hm=56ce8604baf61525e0f8b3747aac8457e84f0948bd916076bc71904fc2fbb0e1&"/>
