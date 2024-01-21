@@ -5,7 +5,7 @@ export default defineConfig({
   title: "ManyAsset Wiki",
   description: "ManyAsset's modding wiki",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    logo: "/favicon.ico",
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
