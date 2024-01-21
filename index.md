@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: Discord
       link: https://discord.gg/v2TWkeR
+    - theme: alt
+      text: GitHub
+      link: https://github.com/ManyAsset/manyasset.github.io
   image:
     src: ./logo.png
     alt: VitePress
@@ -22,8 +25,8 @@ features:
     title: Discover new stuff
     details: Discover innovative methods for crafting scripts commonly found in popular servers.
   - icon: 📚
-    title: Learn easly
-    details: Learn with tutorials made by professional modders.
+    title: Share your knowledge
+    details: Make a pull request with your own tutorial, you can find us on github!
   - icon: 🚀
     title: Unleash creativity
     details: Join the discord to download free assets and start developing your mod.
