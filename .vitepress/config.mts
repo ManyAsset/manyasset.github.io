@@ -6,6 +6,7 @@ export default defineConfig({
     const head: HeadConfig[] = []
 
     head.push(['meta', { property: 'og:image', content: "https://manyasset.github.io/logo.png"}])
+    head.push(['meta', { name: 'theme-color', content: '#d6851a' }])
     
     return head
   },
