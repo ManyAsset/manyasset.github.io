@@ -10,6 +10,7 @@ export default defineConfig({
     
     return head
   },
+  cleanUrls: true,
   title: "ManyAsset Wiki",
   description: "ManyAsset's modding wiki",
   themeConfig: {
