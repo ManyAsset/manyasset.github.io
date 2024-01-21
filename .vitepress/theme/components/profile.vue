@@ -37,7 +37,6 @@ h2, p
     margin: 0 !important;
     padding: 0 !important;
     border: 0 !important;
-    font-family: var(--vp-font-family-base);
 }
 
 h2
@@ -61,7 +60,7 @@ br
 }
 
 .profile-box {
-    margin-top: 48px;
+    margin-top: 30px;
     display: flex;
     padding: 20px 0px;
     justify-content: center;

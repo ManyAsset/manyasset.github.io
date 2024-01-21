@@ -22,10 +22,10 @@ export default defineConfig({
 
     sidebar: [
     {
-        text: "💡 Assets",
+        text: "💡 Tutorials",
         collapsed: false,
         items: [
-            { text: "🎞️ Moving Camo", link: "/moving-camo-seraphina" }
+            { text: "🎞️ Moving Camo", link: "/tutorials/moving-camo" }
         ],
         }
     ],

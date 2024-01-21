@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Browse Wiki
-      link: /moving-camo-seraphina
+      link: /tutorials/moving-camo
     - theme: alt
       text: Discord
       link: https://discord.gg/v2TWkeR
