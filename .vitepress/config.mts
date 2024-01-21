@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   title: "ManyAsset Wiki",
   description: "ManyAsset's modding wiki",
   themeConfig: {
