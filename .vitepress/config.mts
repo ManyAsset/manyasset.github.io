@@ -5,7 +5,7 @@ export default defineConfig({
   transformHead: ({ pageData }) => {
     const head: HeadConfig[] = []
 
-    head.push(['meta', { property: 'og:image', content: "manyasset.github.io/favicon.ico"}]);
+    head.push(['meta', { property: 'og:image', content: "https://manyasset.github.io/favicon.ico"}]);
     
     return head
   },
