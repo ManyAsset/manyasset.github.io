@@ -14,7 +14,7 @@ hero:
       text: Discord
       link: https://discord.gg/v2TWkeR
   image:
-    src: /img/logo.png
+    src: /public/logo.png
     alt: VitePress
 
 features:

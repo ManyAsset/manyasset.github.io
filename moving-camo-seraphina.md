@@ -74,4 +74,4 @@ You can repeat the same steps as above for other weapons. Just change the name o
 
 You can use the .gdt file for reference. It contains the material properties for 16 different camo textures. You can check the texture names in the .gdt file I put here above.
 
-<profile username="Seraphina" handle="__seraphina__" profileImage="./img/profile/seraphina.png"/>
+<profile username="Seraphina" handle="__seraphina__" profileImage="./public/profile/seraphina.png"/>
