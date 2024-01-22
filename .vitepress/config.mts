@@ -16,8 +16,7 @@ export default defineConfig({
   themeConfig: {
     logo: "/favicon.ico",
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Home', link: '/' }
     ],
 
     sidebar: [
