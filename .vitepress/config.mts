@@ -36,7 +36,8 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ManyAsset/manyasset.github.io' },
-      { icon: 'discord', link: 'https://discord.gg/v2TWkeR' }
+      { icon: 'discord', link: 'https://discord.gg/v2TWkeR' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@ManyAsset' }
     ]
   }
 })
