@@ -1,11 +1,14 @@
-# How To Add Attachments To Weapons In Maya
+# How to install and use ManyAnims!
 
-*Note: This will only work for weapons that already have there attachments on the weapon*
+ManyAnims is a batch animation exporter For Maya
+
+Download ManyAnims from GitHub:
+https://github.com/ManyAsset/ManyAnims
 
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/embed/5ahTNxIr7_g" 
+  src="https://youtu.be/db6RyGAgsdM?si=IfqXStDHFwuTQQ4A" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

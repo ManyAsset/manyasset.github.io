@@ -1,11 +1,10 @@
-# How To Add Attachments To Weapons In Maya
+# ow To Export XModels and XAnims
 
-*Note: This will only work for weapons that already have there attachments on the weapon*
 
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/embed/5ahTNxIr7_g" 
+  src="https://youtu.be/Gl9awbc0tl4?si=hJPeG7Fhyg-gnHCb" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 

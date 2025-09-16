@@ -1,11 +1,11 @@
-# How To Add Attachments To Weapons In Maya
+# How To Get Attachment Locations Using HydraX
 
-*Note: This will only work for weapons that already have there attachments on the weapon*
+Download HydraX from our discord or github: https://github.com/Scobalula/HydraX
 
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/embed/5ahTNxIr7_g" 
+  src="https://youtu.be/LbxPl0Dnl6M?si=YRJFzZbP0k6Dqg49" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
