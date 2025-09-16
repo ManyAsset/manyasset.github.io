@@ -25,6 +25,7 @@ export default defineConfig({
         collapsed: false,
         items: [
             { text: "🎞️ Moving Camo", link: "/tutorials/moving-camo" }
+            { text: "🎞️ How To Add Attachments To Weapons In Maya", link: "/tutorials/How To Add Attachments To Weapons In Maya" }
         ],
         }
     ],
