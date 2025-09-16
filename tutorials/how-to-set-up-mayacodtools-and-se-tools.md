@@ -1,8 +1,5 @@
-# How To Add Attachments To Weapons In Maya
+# How To Set Up MayaCoDTools And SE Tools
 
-In this tutorial, How To Add Attachments To Weapons In Maya.
-
-*Note: This will only work for weapons that already have there attachments on the weapon*
 
 <iframe 
   width="560" 

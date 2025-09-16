@@ -1,4 +1,4 @@
-# How to install and use ManyAnims!
+# How to install and use ManyAnims
 
 ManyAnims is a batch animation exporter For Maya
 

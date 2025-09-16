@@ -1,4 +1,4 @@
-# ow To Export XModels and XAnims
+# How To Export XModels and XAnims
 
 
 <iframe 

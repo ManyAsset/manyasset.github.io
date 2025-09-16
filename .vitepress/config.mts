@@ -25,7 +25,11 @@ export default defineConfig({
         collapsed: false,
         items: [
             { text: "🎞️ Moving Camo", link: "/tutorials/moving-camo" },
-            { text: "How To Add Attachments To Weapons In Maya", link: "/tutorials/how-to-add-attachments-to-weapons-in-maya" }
+            { text: "How To Add Attachments To Weapons In Maya", link: "/tutorials/how-to-add-attachments-to-weapons-in-maya" },
+            { text: "How To Export XModels and XAnims", link: "/tutorials/how-to-export-xmodels-and-xanims" },
+            { text: "How To Get Attachment Locations Using HydraX", link: "/tutorials/how-to-get-attachment-locations-using-hydrax" },
+            { text: "How to install and use ManyAnims", link: "/tutorials/How-to-install-and-use-manyanims" },
+            { text: "How To Set Up MayaCoDTools And SE Tools", link: "/tutorials/how-to-set-up-mayacodtools-and-se-tools" }
         ],
         }
     ],
