@@ -14,8 +14,11 @@ hero:
       text: Discord
       link: https://discord.gg/v2TWkeR
     - theme: alt
+      text: YouTube
+      link: https://www.youtube.com/@ManyAsset
+    - theme: alt
       text: GitHub
-      link: https://github.com/ManyAsset/manyasset.github.io
+      link: https://github.com/ManyAsset
   image:
     src: ./logo.png
     alt: VitePress
