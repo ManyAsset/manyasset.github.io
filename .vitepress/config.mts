@@ -32,9 +32,9 @@ export default defineConfig({
               collapsed: false,
               link: "tutorials/WeaponPorting",
               items: [
-                { text: "Basics", link: "tutorials/WeaponPorting/basics" },
-                { text: "Tools/Programs", link: "tutorials/WeaponPorting/tools-programs" },
-                { text: "Per-game", link: "tutorials/WeaponPorting/per-game" },
+                { text: "Basics", link: "tutorials/weaponporting/basics" },
+                { text: "Tools/Programs", link: "tutorials/Weaponporting/tools-programs" },
+                { text: "Per-game", link: "tutorials/Weaponporting/per-game" },
               ],
             },
             { text: "🎞️ Moving Camo", link: "tutorials/moving-camo" }
