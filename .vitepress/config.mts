@@ -30,7 +30,7 @@ export default defineConfig({
             {
               text: "Weapon Porting",
               collapsed: false,
-              link: "tutorials/WeaponPorting",
+              link: "tutorials/weaponporting",
               items: [
                 { text: "Basics", link: "tutorials/weaponporting/basics" },
                 { text: "Tools/Programs", link: "tutorials/weaponporting/tools-programs" },
