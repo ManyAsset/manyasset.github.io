@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Browse Wiki
-      link: /tutorials/moving-camo
+      link: /tutorials/overview
     - theme: alt
       text: Discord
       link: https://discord.gg/v2TWkeR
