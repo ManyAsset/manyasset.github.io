@@ -5,9 +5,6 @@ Here you will find porting tips for each game!
 ## COD1/UO (iw)
 
 - Rig converter (iw rig)
-- Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
-- ConvertNormal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
-
 
 ## COD2 (iw2)
 
