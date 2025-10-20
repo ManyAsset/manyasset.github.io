@@ -16,9 +16,9 @@ Click on the tool/porgram in the list below to downlow them.
 - [HydraX](https://github.com/Scobalula/HydraX/releases)
 
 ## Setting Up Maya!
-How to set up Maya (Preferences).
+How to set up Maya ready to port weapons.
 
-### Up axis
+### Up axis {Up-axis}
 
 - First head to the windows tab at the top, then "Settings/Preferences" > "Preferences".
 
@@ -28,7 +28,7 @@ How to set up Maya (Preferences).
 
 ![preferences_settigs](preferences_settigs.jpg)
 
-- Now select Z.
+- Select up axis: Z.
 
 ![world_coordinate_system_up_axis_z](world_coordinate_system_up_axis_z.jpg)
 
@@ -36,7 +36,7 @@ How to set up Maya (Preferences).
 
 ### Import settings
 
-- Go to file tab top left, then click on the box next to "Import...".
+- Go to the file tab top left, then click on the box next to "Import...".
 
 ![file_import_box_settings](file_import_box_settings-1.jpg)
 
@@ -75,16 +75,6 @@ How to set up Maya (Preferences).
 ![alt text](viewport_2_0.jpg)
 
 
-## Using Saluki
-
-How to use Saluki!
-
-
-## Using Cordycep
-
-How to use Cordycep!
-
-
 ## Setting Up CODMayaTools
 
 How to install CODMayaTools!
@@ -98,6 +88,16 @@ How to install Cast!
 ## Setting Up ManyAnims
 
 How to install ManyAnims!
+
+
+## Using Saluki
+
+How to use Saluki!
+
+
+## Using Cordycep
+
+How to use Cordycep!
 
 
 ## Using GameImageUtil (GIU)
