@@ -1,1 +1,1 @@
-https://manyasset.github.io/
+https://manyasset.xyz/
