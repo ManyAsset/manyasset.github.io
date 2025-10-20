@@ -6,42 +6,42 @@ Here you will find porting tips for each game!
 
 - Rig converter (iw rig)
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
-- Covnvert Normal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
+- ConvertNormal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
 
 
 ## COD2 (iw2)
 
 - Rig converter (iw2 rig)
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
-- Covnvert Normal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
+- ConvertNormal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
 
 
 ## COD4 (iw3)
 
 - Rig converter (fix j_webbing)
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
-- Covnvert Normal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
+- ConvertNormal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
 
 
 ## WAW (t4)
 
 - Rig converter (fix j_webbing)
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
-- Covnvert Normal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
+- ConvertNormal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
 
 
 ## MW2 (iw4)
 
 - photoshop (detail map)
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
-- Covnvert Normal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
+- ConvertNormal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
 
 
 ## BO1 (t5)
 
 - Rig converter (fix j_webbing)
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
-- Covnvert Normal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
+- ConvertNormal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
 - Invert roughness (gloss/cosine)
 
 
@@ -49,7 +49,7 @@ Here you will find porting tips for each game!
 
 - photoshop (detail map)
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
-- Covnvert Normal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
+- ConvertNormal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
 
 
 ## FW (nx1)
@@ -75,7 +75,7 @@ Here you will find porting tips for each game!
 ## COD:Online (codo)
 
 - photoshop (detail map)
-- Covnvert Normal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
+- ConvertNormal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
 
 
 ## AW (s1)
