@@ -15,9 +15,64 @@ Click on the tool/porgram in the list below to downlow them.
 - [ManyWeapons](https://github.com/ManyAsset/ManyWeapons/releases)
 - [HydraX](https://github.com/Scobalula/HydraX/releases)
 
-## Setting Up Maya
+## Setting Up Maya!
+How to set up Maya (Preferences).
 
-How to set up Maya (Preferences)
+### Up axis
+
+- First head to the windows tab at the top, then "Settings/Preferences" > "Preferences".
+
+![windows_settings_preference](windows_settings_preference.jpg)
+
+- Click on "Settings".
+
+![preferences_settigs](preferences_settigs.jpg)
+
+- Now select Z.
+
+![world_coordinate_system_up_axis_z](world_coordinate_system_up_axis_z.jpg)
+
+##
+
+### Import settings
+
+- Go to file tab top left, then click on the box next to "Import...".
+
+![file_import_box_settings](file_import_box_settings-1.jpg)
+
+- Look for playback options and select "Override to Match Source" for both "Framerate Import" and "Animation Range".
+
+![playback_options_framerate_import_animation_range](playback_options_framerate_import_animation_range.jpg)
+
+- At the bottom of the window you should see "Namespace options", select "Merge into selected namespace and rename imcoming objects that match".
+
+![namespace_opstions_merge_into_selected_namespace_rename_incoming_objects_that_match](namespace_opstions_merge_into_selected_namespace_rename_incoming_objects_that_match.jpg)
+
+##
+
+### Timeline speed
+
+- Right click your timeline at the bottom of your screen, head to "Playback Speed" > "Real-time".
+
+![timeline_right_click_playback_speed_real_time](timeline_right_click_playback_speed_real_time.jpg)
+
+
+##
+
+### Enable "Viewport 2.0"
+
+- Head to your maya folder located in your douments folder e.g `Documents\maya\2026`, there you should see a file called
+"Maya.env" open it with any text editor *(notepad, np++, VS code)*.
+
+![Maya_env](Maya_env.jpg)
+
+- Once there copy this into to the file and save `MAYA_ENABLE_DEPRECATED_VIEWPORT=1`.
+
+![alt text](maya_env_open.jpg)
+
+- Restart Maya if you have it open, after restarting you should see a setting called "Legacy Default Viewport" in Renderer.
+
+![alt text](viewport_2_0.jpg)
 
 
 ## Using Saluki

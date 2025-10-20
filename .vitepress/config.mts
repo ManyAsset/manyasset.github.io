@@ -19,7 +19,6 @@ export default defineConfig({
       { text: 'Home', link: '/' }
     ],
 
-
     sidebar: {
       "/tutorials": [
         {
