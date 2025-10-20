@@ -15,6 +15,9 @@ export default defineConfig({
   description: "ManyAsset's modding wiki",
   themeConfig: {
     logo: "/favicon.ico",
+    outline: {
+      level: "deep",
+    },
     nav: [
       { text: 'Home', link: '/' }
     ],

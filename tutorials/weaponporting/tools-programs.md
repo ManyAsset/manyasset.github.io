@@ -18,7 +18,9 @@ Click on the tool/porgram in the list below to downlow them.
 ## Setting Up Maya!
 How to set up Maya ready to port weapons.
 
-### Up axis {Up-axis}
+### Up axis
+
+How to set-up up axis
 
 - First head to the windows tab at the top, then "Settings/Preferences" > "Preferences".
 
@@ -36,6 +38,8 @@ How to set up Maya ready to port weapons.
 
 ### Import settings
 
+How to set up import settings
+
 - Go to the file tab top left, then click on the box next to "Import...".
 
 ![file_import_box_settings](images/tools-programs/setting-up-maya/import-settings/file_import_box_settings.jpg)
@@ -52,6 +56,8 @@ How to set up Maya ready to port weapons.
 
 ### Timeline speed
 
+How to set timeline speed
+
 - Right click your timeline at the bottom of your screen, head to "Playback Speed" > "Real-time".
 
 ![timeline_right_click_playback_speed_real_time](images/tools-programs/setting-up-maya/timeline/timeline_right_click_playback_speed_real_time.jpg)
@@ -59,7 +65,9 @@ How to set up Maya ready to port weapons.
 
 ##
 
-### Enable "Viewport 2.0"
+### Legacy Default Viewport
+
+How to enable Legacy Default Viewport
 
 - Head to your maya folder located in your douments folder e.g `Documents/maya/2026`, there you should see a file called
 "Maya.env" open it with any text editor *(notepad, np++, VS code)*.
@@ -75,7 +83,7 @@ How to set up Maya ready to port weapons.
 ![viewport_2_0](images/tools-programs/setting-up-maya/viewport-2-0/viewport_2_0.jpg)
 
 
-### Setting Up CODMayaTools (FINISH)
+### CODMayaTools (FINISH)
 
 How to install CODMayaTools!
 
