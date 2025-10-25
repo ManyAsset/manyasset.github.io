@@ -136,10 +136,61 @@ How to install ManyAnims!
 
 How to use Saluki!
 
+- Download [Saluki](https://github.com/echo000/saluki-releases/releases) from saluki-releases github
+
+- Move the exe into its own folder.
+
+![unzip_saluki_move_to_folder](unzip_saluki_move_to_folder-1.jpg)
+
+- Run Saluki and head to settings.
+
+![open_saluki_settings](open_saluki_settings.jpg)
+
+- There you can select what type of assets you want to export.
+
+![assets_type_export](assets_type_export.jpg)
+
+- Settings that I use are exporting all avaliable LODs, image type .TGA and Strip directory from material path. You can check other settings if you wish.
+
+![exporting_all_avaliable_LODs](exporting_all_avaliable_LODs.jpg)
+
+![export_image_type_tga](export_image_type_tga.jpg)
+
+![strip_directory_from_material_path](strip_directory_from_material_path.jpg)
+
+- After you're done with your settings, simply run the game you want to export from and click "Load Game" in Saluki. 
+
+***REMEMBER** if you're porting from a game with ricochet anti-cheat you HAVE to use Cordycep or you will get **banned**!*
+
+![load_game_show](load_game_show.jpg)
+
+- You can also preview most to all assets with Saluki by pressing the letter "P" on your keyboard.
+
+![saluki_preview_model](saluki_preview_model.jpg)
+
+![saluki_preview_image](saluki_preview_image.jpg)
+
+![saluki_preview_sound](saluki_preview_sound.jpg)
+
+- *Note: for older COD games, if all their assets don't get loaded you will need to load their IWDs with "Load File" and selecting the IWDs.*
+
+- Once you've exported the assets you wanted, head to the `exported_files` folder in root folder of where Saluki is, there you should see the name of the game you exported from and the assets inside.
+
+![saluki_export_folder_show](saluki_export_folder_show.jpg)
 
 ## Using Cordycep
 
 How to use Cordycep!
+
+- Download [Cordycep](https://discord.com/invite/eY2Y5p2PEp) from Dest1yo's discord server under the tools channel.
+
+- Move the files into their own folder.
+
+![unzip_cordycep_move_to_folder](unzip_cordycep_move_to_folder.jpg)
+
+### Cordycep (COD: Online)
+
+- Download [Cordycep (COD: Online)](https://github.com/dest1yo/Cordycep-rs-releases/releasess) from Cordycep-rs-releases github
 
 
 ## Using GameImageUtil (GIU)
