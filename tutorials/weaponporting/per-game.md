@@ -78,7 +78,7 @@ Here you will find porting tips for each game!
 ## BO3 (t7)
 
 - Rig converter (t7 rig)
-- Attachment locations | **HydraX**: "attachviewModel1"
+- Attachment locations | **HydraX**: "attachviewModel1" (tag pos x 2.54 = tag pos)
 
 ## IW (iw7)
 
