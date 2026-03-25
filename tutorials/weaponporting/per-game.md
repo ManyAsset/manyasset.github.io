@@ -38,6 +38,7 @@ Here you will find porting tips for each game!
 
 ## BO1 (t5)
 
+- photoshop (detail map)
 - Rig converter (fix j_webbing)
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
 - ConvertNormal | **GIU**: CoD Greyscale XY Normal Map w/ Alpha (MW/WaW/MW2/MW3/BO1)
