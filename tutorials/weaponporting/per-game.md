@@ -56,12 +56,12 @@ Here you will find porting tips for each game!
 
 - photoshop (detail map)
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
-- Coverter Normal | **GIU**: XY Normal Map (BC5 Grey/Yellow w/ No Alpha) (Modern Games/Global)
+- Converter Normal | **GIU**: XY Normal Map (BC5 Grey/Yellow w/ No Alpha) (Modern Games/Global)
 
 ## BO2 (t6)
 
 - Rig converter (fix j_webbing)
-- Coverter Normal | **GIU**: XY Normal Map (BC5 Grey/Yellow w/ No Alpha) (Modern Games/Global)
+- Converter Normal | **GIU**: XY Normal Map (BC5 Grey/Yellow w/ No Alpha) (Modern Games/Global)
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
 - Attachment locations | **OAT**: "attachviewModelOffsetXX" Convert value from Inches to CM
 - Sound Aliases | **OAT**: Dump `common_mp` (zone_dump/zone_raw/common_mp/soundbank/mpl_common.all.aliases.csv)
@@ -70,7 +70,7 @@ Here you will find porting tips for each game!
 
 - Blend Fire and Settle anims
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
-- Coverter Normal | **GIU**: XY Normal Map (BC5 Grey/Yellow w/ No Alpha) (Modern Games/Global)
+- Converter Normal | **GIU**: XY Normal Map (BC5 Grey/Yellow w/ No Alpha) (Modern Games/Global)
 - Sub-D mesh (most to all weapons)
 - Sound Aliases | **x64 ZT**: Dump `common_mp` (dump/common_mp/sounds)
 

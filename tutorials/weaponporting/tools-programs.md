@@ -1,8 +1,8 @@
-# Tools/porgrams
+# Tools/program
 
 A list of tools and programs you will need to port weapons from all COD games!
 
-Click on the tool/porgram in the list below to download them.
+Click on the tool/program in the list below to download them.
 
 - AutoDesk Maya (2022+)
 - [Saluki](https://github.com/echo000/saluki-releases/releases)
@@ -73,7 +73,7 @@ How to set timeline speed
 
 How to enable Legacy Default Viewport
 
-- Head to your maya folder located in your douments folder e.g `Documents/maya/2026`, there you should see a file called
+- Head to your maya folder located in your documents folder e.g `Documents/maya/2026`, there you should see a file called
 "Maya.env" open it with any text editor *(notepad, np++, VS code)*.
 
 ![Maya_env](images/tools-programs/setting-up-maya/viewport-2-0/Maya_env.jpg)
