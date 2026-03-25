@@ -82,6 +82,7 @@ Here you will find porting tips for each game!
 
 ## AW (s1)
 
+- Blend Fire and Settle anims
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
 - Sub-D mesh (some weapons)
 - Sound Aliases | **x64 ZT**: Dump `common_mp` (dump/common_mp/sounds)
@@ -101,12 +102,13 @@ Here you will find porting tips for each game!
 
 ## MWR (h1)
 
-- Blend Fire and Settle anims
+- Blend Fire and Settle anims (Some DLC wpns)
 - Split Specular | **GIU**: CoD Spec/Gloss (RGB/A)(Multiple CoDs)
 - Sound Aliases | **x64 ZT**: Dump `common_mp` (dump/common_mp/sounds)
 
 ## WW2 (s2)
 
+- Blend Fire and Settle anims
 - Rig converter (iw7 rig)
 - Split S.G.O | **GIU**: CoD S/G/O (Green Image) (World War II)
 - Split S/A | **GIU**: CoD Specular/Albedo (World War II)
@@ -122,6 +124,7 @@ Here you will find porting tips for each game!
 - Split N.O.G | **GIU**: Normal/Gloss/Occlusion (Infinite Warfare/Modern Warfare)
 - Sound Banks | **Saluki**: "Load Sound Banks" Setting
 - WarZone | All WZ assets still exist (iw8, t9 and s4)
+- 60 FPS Animations | Check if the anim is 30 or 60 FPS
 
 ## MW2:CR (h2)
 
@@ -133,7 +136,7 @@ Here you will find porting tips for each game!
 
 - Rig converter (t9 rig)
 - Invert roughness (gloss/cosine)
-- Fire and rechamber animations (60 FPS)
+- 60 FPS Animations | Check if the anim is 30 or 60 FPS
 
 ## Vanguard (s4)
 
@@ -141,6 +144,7 @@ Here you will find porting tips for each game!
 - Split S/A | **GIU**: CoD Specular/Albedo (Infinite Warfare/Modern Warfare)
 - Split N.O.G | **GIU**: Normal/Gloss/Occlusion (Infinite Warfare/Modern Warfare)
 - Sound Banks | **Saluki**: "Load Sound Banks" Setting
+- 60 FPS Animations | Check if the anim is 30 or 60 FPS
 
 ## MW22 (iw9)
 
@@ -148,6 +152,7 @@ Here you will find porting tips for each game!
 - Split S/A | **GIU**: CoD Specular/Albedo (Infinite Warfare/Modern Warfare)
 - Split N.O.G | **GIU**: Normal/Gloss/Occlusion (Infinite Warfare/Modern Warfare)
 - Sound Banks | **Saluki**: "Load Sound Banks" Setting
+- 60 FPS Animations | Check if the anim is 30 or 60 FPS
 
 ## MW23 (jup)
 
@@ -155,15 +160,20 @@ Here you will find porting tips for each game!
 - Split S/A | **GIU**: CoD Specular/Albedo (Infinite Warfare/Modern Warfare)
 - Split N.O.G | **GIU**: Normal/Gloss/Occlusion (Infinite Warfare/Modern Warfare)
 - Sound Banks | **Saluki**: "Load Sound Banks" Setting
+- 60 FPS Animations | Check if the anim is 30 or 60 FPS
 
 ## BO6 (t10)
 
 - Rig converter (iw7 rig)
 - Split S/A | **GIU**: CoD Specular/Albedo (Infinite Warfare/Modern Warfare)
 - Split N.O.G | **GIU**: Normal/Gloss/Occlusion (Infinite Warfare/Modern Warfare)
+- Sound Banks | **Saluki**: "Load Sound Banks" Setting
+- 60 FPS Animations | Check if the anim is 30 or 60 FPS
 
 ## BO7 (sat)
 
 - Rig converter (iw7 rig)
 - Split S/A | **GIU**: CoD Specular/Albedo (Infinite Warfare/Modern Warfare)
 - Split N.O.G | **GIU**: Normal/Gloss/Occlusion (Infinite Warfare/Modern Warfare)
+- Sound Banks | **Saluki**: "Load Sound Banks" Setting
+- 60 FPS Animations | Check if the anim is 30 or 60 FPS
