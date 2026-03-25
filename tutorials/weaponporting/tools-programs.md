@@ -2,7 +2,7 @@
 
 A list of tools and programs you will need to port weapons from all COD games!
 
-Click on the tool/porgram in the list below to downlow them.
+Click on the tool/porgram in the list below to download them.
 
 - AutoDesk Maya (2022+)
 - [Saluki](https://github.com/echo000/saluki-releases/releases)
