@@ -4,7 +4,7 @@ A list of tools and programs you will need to port weapons from all COD games!
 
 Click on the tool/porgram in the list below to downlow them.
 
-- AutoDesk Maya (2023+)
+- AutoDesk Maya (2022+)
 - [Saluki](https://github.com/echo000/saluki-releases/releases)
 - [Cordycep](https://github.com/Scobalula/Cordycep/releases)
 - [CODMayaTools](https://github.com/ManyAsset/CODMayaTools/releases)
@@ -14,6 +14,10 @@ Click on the tool/porgram in the list below to downlow them.
 - [COD4:MW ModTools](https://github.com/ManyAsset/cod4mw-modtools/releases) 
 - [ManyWeapons](https://github.com/ManyAsset/ManyWeapons/releases)
 - [HydraX](https://github.com/Scobalula/HydraX/releases)
+- [ZoneBuilder](https://github.com/iw4x/zonebuilder-wrapper)
+- [ZoneTool](https://github.com/Joelrau/zonetool/tree/quak)
+- [OpenAssetTools](https://github.com/Laupetin/OpenAssetTools)
+- [x64 ZoneTool](https://github.com/Joelrau/x64-zt)
 
 ## Setting Up Maya!
 How to set up Maya ready to port weapons.
@@ -212,3 +216,18 @@ How to use ManyWeapons!
 
 How to use HydraX!
 
+## Using ZoneBuilder
+
+How to use ZoneBuilder (ZB)!
+
+## Using ZoneTool
+
+How to use ZoneTool (ZT)!
+
+## Using OpenAssetTools
+
+How to use OpenAssetTools (OAT)!
+
+## Using x64 ZoneTool
+
+How to use ZoneTool (x64 ZT)!
