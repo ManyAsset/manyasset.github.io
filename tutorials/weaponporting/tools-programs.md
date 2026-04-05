@@ -10,7 +10,7 @@ Click on the tool/program in the list below to download them.
 - [CODMayaTools](https://github.com/ManyAsset/CODMayaTools/releases)
 - [Cast](https://github.com/dtzxporter/cast/releases)
 - [ManyAnims](https://github.com/ManyAsset/ManyAnims/releases)
-- [GameImageUtil (GIU)](https://github.com/Scobalula/GameImageUtil/releases)
+- [Texture Smith(TS)](https://github.com/echo000/texture_smith)
 - [COD4:MW ModTools](https://github.com/ManyAsset/cod4mw-modtools/releases) 
 - [ManyWeapons](https://github.com/ManyAsset/ManyWeapons/releases)
 - [HydraX](https://github.com/Scobalula/HydraX/releases)
@@ -18,6 +18,8 @@ Click on the tool/program in the list below to download them.
 - [ZoneTool](https://github.com/Joelrau/zonetool/tree/quak)
 - [OpenAssetTools](https://github.com/Laupetin/OpenAssetTools)
 - [x64 ZoneTool](https://github.com/Joelrau/x64-zt)
+- [BassDrop](tools/BassDrop.zip)
+- [CascView](tools/CascView.zip")
 
 ## Setting Up Maya!
 How to set up Maya ready to port weapons.
@@ -87,7 +89,7 @@ How to enable Legacy Default Viewport
 ![viewport_2_0](images/tools-programs/setting-up-maya/viewport-2-0/viewport_2_0.jpg)
 
 
-### CODMayaTools (FINISH)
+## Setting Up CODMayaTools (FINISH)
 
 How to install CODMayaTools!
 
@@ -199,9 +201,9 @@ How to use Cordycep!
 - Download [Cordycep (COD: Online)](https://github.com/dest1yo/Cordycep-rs-releases/releasess) from Cordycep-rs-releases github
 
 
-## Using GameImageUtil (GIU)
+## Using Texture Smith (TS)
 
-How to use GameImageUtil (GIU)!
+How to use Texture Smith (TS)!
 
 
 ## Installing COD4:MW ModTools
@@ -233,3 +235,11 @@ How to use OpenAssetTools (OAT)!
 ## Using x64 ZoneTool
 
 How to use ZoneTool (x64 ZT)!
+
+## Using BassDrop
+
+How to use BassDrop!
+
+## Using CascView
+
+How to use CascView!
