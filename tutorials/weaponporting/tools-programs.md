@@ -19,7 +19,7 @@ Click on the tool/program in the list below to download them.
 - [OpenAssetTools](https://github.com/Laupetin/OpenAssetTools)
 - [x64 ZoneTool](https://github.com/Joelrau/x64-zt)
 - [BassDrop](tools/BassDrop.zip)
-- [CascView](tools/CascView.zip")
+- [CascView](tools/CascView.zip)
 
 ## Setting Up Maya!
 How to set up Maya ready to port weapons.
