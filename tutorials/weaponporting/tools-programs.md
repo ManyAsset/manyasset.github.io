@@ -21,8 +21,9 @@ Click on the tool/program in the list below to download them.
 - [BassDrop](tools/BassDrop.zip)
 - [CascView](tools/CascView.zip)
 
-## Setting Up Maya!
-How to set up Maya ready to port weapons.
+## Setting Up Maya
+
+How to set up Maya ready to port weapons!
 
 ### Up axis
 
@@ -54,7 +55,7 @@ How to set up import settings
 
 ![playback_options_framerate_import_animation_range](images/tools-programs/setting-up-maya/import-settings/playback_options_framerate_import_animation_range.jpg)
 
-- At the bottom of the window you should see "Namespace options", select "Merge into selected namespace and rename imcoming objects that match".
+- At the bottom of the window you should see "Namespace options", select "Merge into selected namespace and rename incoming objects that match".
 
 ![namespace_opstions_merge_into_selected_namespace_rename_incoming_objects_that_match](images/tools-programs/setting-up-maya/import-settings/namespace_opstions_merge_into_selected_namespace_rename_incoming_objects_that_match.jpg)
 
@@ -204,6 +205,126 @@ How to use Cordycep!
 ## Using Texture Smith (TS)
 
 How to use Texture Smith (TS)!
+
+- When you run Texture Smith for the first time it will look like this.
+
+![alt text](image-1.png)
+
+- You can change the theme of TS by clicking `Dracula` at the bottom right corner, I like Moonfly so I will be show it with that theme from now on, pick whatever you like.
+
+![alt text](image-2.png)
+
+##
+
+### CoD Spec/Gloss (RGB/A Split)
+
+- How to Split Specular!
+
+- In TS Select Spec/Gloss (RGB/A Split) in the drop down top left.
+
+![alt text](image-4.png)
+
+- Once selected, drag and drop the specular into TS.
+
+![alt text](image-5.png)
+
+- You should see a preview of the converted texture, you can click the on the left and right buttons to see both images.
+
+![alt text](image-6.png)
+
+- When you're ready to export your textures pick the format you want and click "Save outputs".
+
+![alt text](image-8.png)
+
+- Your converted textures should export where you imported them from with _s and _g.
+
+![alt text](image-9.png)
+
+- You can now delete the original packed specular and use the split spec and gloss!
+
+##
+
+### CoD Greyscale XY Normal Map (A/G)
+
+- How to convert Greyscale XY Normal Map!
+
+- In TS Select CoD Greyscale XY Normal Map (A/G) in the drop down top left.
+
+![alt text](image-10.png)
+
+- Once selected, drag and drop the specular into TS.
+
+![alt text](image-11.png)
+
+- You should see a preview of the converted texture.
+
+![alt text](image-12.png)
+
+When you're ready to export your texture pick the format you want and click "Save outputs".
+
+![alt text](image-8.png)
+
+- Your converted texture should export where you imported it from with _normal.
+
+![alt text](image-13.png)
+
+- You can now delete the original normal map and use the converted one!
+
+##
+
+### Detail Map Merger
+
+- How to merger detail map into colour
+
+- In TS Select Detail Map Merger in the drop down top left.
+
+![alt text](image-15.png)
+
+- Once selected, drag and drop the colour first then the detail map into TS.
+
+![alt text](image-14.png)
+
+- You should see a preview of the merged texture.
+
+![alt text](image-16.png)
+
+- When you're ready to export your texture pick the format you want and click "Save outputs".
+
+![alt text](image-8.png)
+
+- Your converted texture should export where you imported it from with _detailed.
+
+![alt text](image-17.png)
+
+You can now delete the original colour and detail map and use the merged one!
+
+##
+
+### BC5 XY Normal Map
+
+- How to convert yellow XY Normal Map!
+
+- In TS Select CoD BC5 XY Normal Map in the drop down top left.
+
+![alt text](image-18.png)
+
+- Once selected, drag and drop the normal into TS.
+
+![alt text](image-19.png)
+
+- You should see a preview of the converted texture.
+
+![alt text](image-20.png)
+
+When you're ready to export your texture pick the format you want and click "Save outputs".
+
+![alt text](image-8.png)
+
+- Your converted texture should export where you imported it from with _normal.
+
+![alt text](image-21.png)
+
+- You can now delete the original normal map and use the converted one!
 
 
 ## Installing COD4:MW ModTools

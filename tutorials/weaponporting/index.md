@@ -1,5 +1,5 @@
 # Weapon Porting
 
 - [Basics](/tutorials/weaponporting/basics)
-- [Tools](/tutorials/weaponporting/tools-programs)
+- [Tools/Programs](/tutorials/weaponporting/tools-programs)
 - [Per-Game](/tutorials/weaponporting/per-game)

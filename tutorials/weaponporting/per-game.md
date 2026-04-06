@@ -28,7 +28,8 @@ Here you will find porting tips for each game!
 - Rig converter (fix j_webbing)
 - Split Specular | **TS**: CoD Spec/Gloss (RGB/A Split)
 - Convert Normal | **TS**: CoD Greyscale XY Normal Map (A/G)
-- Sound Aliases | `WAW Mod Tools` (raw/soundaliases/weapons.csv) 
+- Sound Aliases | `WAW Mod Tools` (raw/soundaliases/weapons.csv)
+- Custom Sprints | iw7 Default Sprints
 
 ## MW2 (iw4)
 - Detail Map | **TS**: Detail Map Merger (Detail Intensity 0.50)
@@ -40,6 +41,7 @@ Here you will find porting tips for each game!
 
 - Detail Map | **TS**: Detail Map Merger (Detail Intensity 0.50)
 - Rig converter (fix j_webbing)
+- Yellow Specular | **TS**: PBR to Colour/Spec/Gloss (colour mask: 0.50) (spec mask: 1.00)
 - Split Specular | **TS**: CoD Spec/Gloss (RGB/A Split)
 - Convert Normal | **TS**: CoD Greyscale XY Normal Map (A/G)
 - Invert roughness (gloss/cosine)
@@ -122,6 +124,7 @@ Here you will find porting tips for each game!
 
 - Rig converter (t8 rig)
 - Convert Normal | **TS**: BC5 XY Normal Map
+- Sabl/Sabs | **CascView**
 
 ## MW19 (iw8)
 
@@ -129,7 +132,6 @@ Here you will find porting tips for each game!
 - Split S/A | **TS**: CoD Specular/Albedo (IW/MW)
 - Split N.O.G | **TS**: Normal/Gloss/Occlusion (IW/MW)
 - Sound Banks | **Saluki**: "Load Sound Banks" Setting
-- Sabl/Sabs | **CascView**
 - WarZone | All WZ assets still exist (iw8, t9 and s4)
 - 60 FPS Animations | Check if the anim is 30 or 60 FPS
 
