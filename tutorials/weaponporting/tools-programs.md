@@ -220,7 +220,7 @@ How to use Texture Smith (TS)!
 
 - How to Split Specular!
 
-- In TS Select Spec/Gloss (RGB/A Split) in the drop down top left.
+- In TS Select `Spec/Gloss (RGB/A Split)` in the drop down top left.
 
 ![alt text](image-4.png)
 
@@ -228,7 +228,7 @@ How to use Texture Smith (TS)!
 
 ![alt text](image-5.png)
 
-- You should see a preview of the converted texture, you can click the on the left and right buttons to see both images.
+- You should see a preview of the converted texture, you can click on the left and right buttons to see both images.
 
 ![alt text](image-6.png)
 
@@ -248,7 +248,7 @@ How to use Texture Smith (TS)!
 
 - How to convert Greyscale XY Normal Map!
 
-- In TS Select CoD Greyscale XY Normal Map (A/G) in the drop down top left.
+- In TS Select `CoD Greyscale XY Normal Map (A/G)` in the drop down top left.
 
 ![alt text](image-10.png)
 
@@ -276,11 +276,11 @@ When you're ready to export your texture pick the format you want and click "Sav
 
 - How to merger detail map into colour
 
-- In TS Select Detail Map Merger in the drop down top left.
+- In TS Select `Detail Map Merger` in the drop down top left.
 
 ![alt text](image-15.png)
 
-- Once selected, drag and drop the colour first then the detail map into TS.
+- Once selected, drag and drop the colour first then the detail map into TS, next set the Detail Intensity to 0.50.
 
 ![alt text](image-14.png)
 
@@ -304,7 +304,7 @@ You can now delete the original colour and detail map and use the merged one!
 
 - How to convert yellow XY Normal Map!
 
-- In TS Select CoD BC5 XY Normal Map in the drop down top left.
+- In TS Select `CoD BC5 XY Normal Map` in the drop down top left.
 
 ![alt text](image-18.png)
 
@@ -325,6 +325,98 @@ When you're ready to export your texture pick the format you want and click "Sav
 ![alt text](image-21.png)
 
 - You can now delete the original normal map and use the converted one!
+
+##
+
+### Invert RGB Values
+
+- How to `Invert roughness (gloss/cosine)`
+
+- In TS Select Invert RGB Values in the drop down top left.
+
+![alt text](image-22.png)
+
+- Once selected, drag and drop the gloss into TS.
+
+![alt text](image-23.png)
+
+You should see a preview of the converted texture.
+
+![alt text](image-24.png)
+
+- When you're ready to export your textures pick the format you want and click "Save outputs".
+
+![alt text](image-8.png)
+
+- Your converted textures should export where you imported them from with _inverted.
+
+![alt text](image-25.png)
+
+- You can now delete the original gloss and use the inverted one!
+
+##
+
+### PBR to Colour/Spec/Gloss
+
+- How to convert Yellow Specular
+
+- In TS Select `Split All Channels (Global)` in the drop down top left.
+
+![alt text](image-27.png)
+
+- Once selected, drag and drop the packed specular into TS.
+
+![alt text](image-23.png)
+
+- You should see a preview of the converted texture, you can click on the left and right buttons to see all images.
+
+![alt text](image-29.png)
+
+- When you're ready to export your textures pick the format you want and click "Save outputs".
+
+![alt text](image-8.png)
+
+- Your converted textures should export where you imported them from with _r, _g, _b and _a.
+
+![alt text](image-30.png)
+
+- Each texture corresponds to a channel _r is red, _g is green, _b is blue and _a is alpha. Red is specular correction (inverted metallic), green is occlusion, blue is nothing and alpha is roughness
+
+- Start by deleting _b as it's nothing, next _g (occlusion) keep this as you can merge it into the colour, if its full white the material doesn't use it, you can delete it. _r (specular correction (inverted metallic)) is your specular and _a (roughness) is your gloss, you will need to invert both of these.
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+- Once both are inverted you can delete the original _r and _a.
+
+![alt text](image-33.png)
+
+- In TS Select `PBR to Colour/Spec/Gloss` in the drop down top left.
+
+![alt text](image-34.png)
+
+- Set colour mask to `0.50` and specular mask to `1.00`
+
+![alt text](image-35.png)
+
+- You should see a preview of the converted texture, you can click on the left and right buttons to see all images.
+
+![alt text](image-36.png)
+
+- When you're ready to export your textures pick the format you want and click "Save outputs".
+
+![alt text](image-8.png)
+
+- You can now delete the inverted _r and _a and use the converted ones.
+
+![alt text](image-37.png)
+
+- Unless you're porting this to a game with PBR you can delete the _colour from TS and use the original colour.
+
+- You can now delete the original yellow specular and use the converted ones!
+
+![alt text](image-38.png)
 
 
 ## Installing COD4:MW ModTools
