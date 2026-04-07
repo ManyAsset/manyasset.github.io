@@ -366,7 +366,7 @@ You should see a preview of the converted texture.
 
 - Once selected, drag and drop the packed specular into TS.
 
-![alt text](image-23.png)
+![alt text](image-39.png)
 
 - You should see a preview of the converted texture, you can click on the left and right buttons to see all images.
 
