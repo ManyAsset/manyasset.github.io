@@ -126,8 +126,8 @@ Here you will find porting tips for each game!
 
 - Blend Fire and Settle anims
 - Rig converter (iw7 rig)
-- Split S.G.O | **TS**: CoD WW2 Green Image (S/O/G Split)
-- Split S/A | **TS**: CoD WW2 Split Colour/Specular
+- Split S.G.O | **TS**: [CoD WW2 Green Image (S/O/G Split)](tools-programs#cod-ww2-green-image-s-o-g)
+- Split S/A | **TS**: [CoD WW2 Split Colour/Specular](tools-programs#cod-ww2-split-colour-specular)
 - Cordycep support
 
 ## BO4 (t8)
