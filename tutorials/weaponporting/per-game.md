@@ -69,6 +69,7 @@ Here you will find porting tips for each game!
 - Split Specular | **TS**: [CoD Spec/Gloss (RGB/A Split)](tools-programs#cod-spec-gloss-rgb-a-split)
 - Attachment locations | **OAT**: "attachviewModelOffsetXX" Convert value from Inches to CM
 - Sound Aliases | **OAT**: Dump `common_mp` (zone_dump/zone_raw/common_mp/soundbank/mpl_common.all.aliases.csv)
+- Sounds | **Saluki**: Drag and drop sabl/sabs
 
 ## Ghosts (iw6)
 
@@ -101,6 +102,7 @@ Here you will find porting tips for each game!
 - Convert Normal | **TS**: [BC5 XY Normal Map](tools-programs#bc5-xy-normal-map)
 - Attachment locations | **HydraX**: "attachviewModel1" (tag pos x 2.54 = tag pos)
 - Sound Aliases | **HydraX**: Dump `mp_common` (exported_files/Black Ops III/sound/zone/zm_common.all.alias.csv)
+- Sounds | **Saluki**: Drag and drop sabl/sabs
 - Cordycep support
 
 ## IW (iw7)
@@ -109,6 +111,7 @@ Here you will find porting tips for each game!
 - Split Specular | **TS**: [CoD Spec/Gloss (RGB/A Split)](tools-programs#cod-spec-gloss-rgb-a-split)
 - Split N.G.O | **TS**: [Normal/Gloss/Occlusion (IW/MW)](tools-programs#cod-normal-gloss-occlusion-iw-mw)
 - Sound Aliases | **x64 ZT**: Dump `common_mp` (dump/common_mp/sound/common_mp.all.aliases.csv)
+- Sounds | **Saluki**: Drag and drop sabl/sabs
 - Cordycep support
 
 ## MWR (h1)
@@ -132,6 +135,7 @@ Here you will find porting tips for each game!
 - Rig converter (t8 rig)
 - Convert Normal | **TS**: [BC5 XY Normal Map](tools-programs#bc5-xy-normal-map)
 - Sabl/Sabs | **CascView**
+- Sounds | **Saluki**: Drag and drop sabl/sabs
 - Cordycep support
 
 ## MW19 (iw8)
