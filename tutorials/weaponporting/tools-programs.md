@@ -418,6 +418,89 @@ You should see a preview of the converted texture.
 
 ![alt text](image-38.png)
 
+##
+
+### CoD Specular/Albedo (IW/MW)
+
+- How to Split Specular and Albedo!
+
+- In TS Select `CoD Specular/Albedo (IW/MW)` in the drop down top left.
+
+![alt text](image-40.png)
+
+- Once selected, drag and drop the packed specular/albedo into TS.
+
+![alt text](image-41.png)
+
+- You should see a preview of the converted texture, you can click on the left and right buttons to see both images.
+
+![alt text](image-43.png)
+
+- When you're ready to export your textures pick the format you want and click "Save outputs".
+
+![alt text](image-8.png)
+
+- Your converted textures should export where you imported them from with _c and _s.
+
+![alt text](image-44.png)
+
+- You can now delete the original packed specular/albedo and use the split specular and colour!
+
+##
+
+### CoD Normal/Gloss/Occlusion (IW/MW)
+
+- How to Split N.G.O (Normal/Gloss/Occlusion)!
+
+- In TS Select `CoD Normal/Gloss/Occlusion (IW/MW)` in the drop down top left.
+
+![alt text](image-45.png)
+
+- Once selected, drag and drop the packed Normal/Gloss/Occlusion into TS.
+
+![alt text](image-46.png)
+
+- You should see a preview of the converted texture, you can click on the left and right buttons to see all images.
+
+![alt text](image-47.png)
+
+- When you're ready to export your textures pick the format you want and click "Save outputs".
+
+![alt text](image-8.png)
+
+- Your converted textures should export where you imported them from with _n, _g and _o.
+
+![alt text](image-49.png)
+
+- You can now delete the original packed Normal/Gloss/Occlusion and use the split normal, gloss and occlusion!
+
+##
+
+### CoD MW2R Blue Image (S/G/O)
+
+- How to Split S/G/O (Specular/Gloss/Occlusion)!
+
+- In TS Select `CoD MW2R Blue Image (S/G/O)` in the drop down top left.
+
+![alt text](image-50.png)
+
+- Once selected, drag and drop the packed Specular/Gloss/Occlusion into TS.
+
+![alt text](image-51.png)
+
+- You should see a preview of the converted texture, you can click on the left and right buttons to see all images.
+
+![alt text](image-53.png)
+
+- When you're ready to export your textures pick the format you want and click "Save outputs".
+
+![alt text](image-8.png)
+
+- Your converted textures should export where you imported them from with _s, _g and _o.
+
+![alt text](image-52.png)
+
+- You can now delete the original packed Specular/Gloss/Occlusion and use the split specular, gloss and occlusion!
 
 ## Installing COD4:MW ModTools
 

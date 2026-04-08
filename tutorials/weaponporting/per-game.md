@@ -77,12 +77,14 @@ Here you will find porting tips for each game!
 - Converter Normal | **TS**: [BC5 XY Normal Map](tools-programs#bc5-xy-normal-map)
 - Sub-D mesh (most to all weapons)
 - Sound Aliases | **x64 ZT**: Dump `common_mp` (dump/common_mp/sounds)
+- Cordycep support
 
 ## COD:Online (codo)
 
 - Detail Map | **TS**: [Detail Map Merger](tools-programs#detail-map-merger)
 - Split Specular | **TS**: [CoD Spec/Gloss (RGB/A Split)](tools-programs#cod-spec-gloss-rgb-a-split)
 - Convert Normal | **TS**: [CoD Greyscale XY Normal Map (A/G)](tools-programs#cod-greyscale-xy-normal-map-a-g)
+- Cordycep support
 
 ## AW (s1)
 
@@ -91,6 +93,7 @@ Here you will find porting tips for each game!
 - Convert Normal | **TS**: [BC5 XY Normal Map](tools-programs#bc5-xy-normal-map)
 - Sub-D mesh (some weapons)
 - Sound Aliases | **x64 ZT**: Dump `common_mp` (dump/common_mp/sounds)
+- Cordycep support
 
 ## BO3 (t7)
 
@@ -98,13 +101,15 @@ Here you will find porting tips for each game!
 - Convert Normal | **TS**: [BC5 XY Normal Map](tools-programs#bc5-xy-normal-map)
 - Attachment locations | **HydraX**: "attachviewModel1" (tag pos x 2.54 = tag pos)
 - Sound Aliases | **HydraX**: Dump `mp_common` (exported_files/Black Ops III/sound/zone/zm_common.all.alias.csv)
+- Cordycep support
 
 ## IW (iw7)
 
 - Rig converter (iw7 rig)
 - Split Specular | **TS**: [CoD Spec/Gloss (RGB/A Split)](tools-programs#cod-spec-gloss-rgb-a-split)
-- Split N.O.G | **TS**: Normal/Gloss/Occlusion (IW/MW)
+- Split N.G.O | **TS**: [Normal/Gloss/Occlusion (IW/MW)](tools-programs#cod-normal-gloss-occlusion-iw-mw)
 - Sound Aliases | **x64 ZT**: Dump `common_mp` (dump/common_mp/sound/common_mp.all.aliases.csv)
+- Cordycep support
 
 ## MWR (h1)
 
@@ -112,6 +117,7 @@ Here you will find porting tips for each game!
 - Split Specular | **TS**: [CoD Spec/Gloss (RGB/A Split)](tools-programs#cod-spec-gloss-rgb-a-split)
 - Convert Normal | **TS**: [BC5 XY Normal Map](tools-programs#bc5-xy-normal-map)
 - Sound Aliases | **x64 ZT**: Dump `common_mp` (dump/common_mp/sounds)
+- Cordycep support
 
 ## WW2 (s2)
 
@@ -119,27 +125,31 @@ Here you will find porting tips for each game!
 - Rig converter (iw7 rig)
 - Split S.G.O | **TS**: CoD WW2 Green Image (S/O/G Split)
 - Split S/A | **TS**: CoD WW2 Split Colour/Specular
+- Cordycep support
 
 ## BO4 (t8)
 
 - Rig converter (t8 rig)
 - Convert Normal | **TS**: [BC5 XY Normal Map](tools-programs#bc5-xy-normal-map)
 - Sabl/Sabs | **CascView**
+- Cordycep support
 
 ## MW19 (iw8)
 
 - Rig converter (iw7 rig)
-- Split S/A | **TS**: CoD Specular/Albedo (IW/MW)
-- Split N.O.G | **TS**: Normal/Gloss/Occlusion (IW/MW)
+- Split S/A | **TS**: [CoD Specular/Albedo (IW/MW)](tools-programs#cod-specular-albedo-iw-mw)
+- Split N.G.O | **TS**: [Normal/Gloss/Occlusion (IW/MW)](tools-programs#cod-normal-gloss-occlusion-iw-mw)
 - Sound Banks | **Saluki**: "Load Sound Banks" Setting
 - WarZone | All WZ assets still exist (iw8, t9 and s4)
 - 60 FPS Animations | Check if the anim is 30 or 60 FPS
+- Cordycep support | Required to export assets!
 
 ## MW2:CR (h2)
 
 - Split Specular | **TS**: [CoD Spec/Gloss (RGB/A Split)](tools-programs#cod-spec-gloss-rgb-a-split)
-- Split S.G.O | **TS**: CoD S/G/O (Blue Image) (Modern Warfare 2 Remastered)
+- Split S.G.O | **TS**: [CoD S/G/O (Blue Image) (Modern Warfare 2 Remastered)](tools-programs#cod-mw2r-blue-image-s-g-o)
 - Sound Aliases | **x64 ZT**: Dump `common` (dump/common/sounds)
+- Cordycep support
 
 ## BO:CW (t9)
 
@@ -147,43 +157,49 @@ Here you will find porting tips for each game!
 - Convert Normal | **TS**: [BC5 XY Normal Map](tools-programs#bc5-xy-normal-map)
 - Invert roughness (gloss/cosine) | **TS**: [Invert RGB Values](tools-programs#invert-rgb-values)
 - 60 FPS Animations | Check if the anim is 30 or 60 FPS
+- Cordycep support
 
 ## Vanguard (s4)
 
 - Rig converter (iw7 rig)
-- Split S/A | **TS**: CoD Specular/Albedo (IW/MW)
-- Split N.O.G | **TS**: Normal/Gloss/Occlusion (IW/MW)
+- Split S/A | **TS**: [CoD Specular/Albedo (IW/MW)](tools-programs#cod-specular-albedo-iw-mw)
+- Split N.G.O | **TS**: [Normal/Gloss/Occlusion (IW/MW)](tools-programs#cod-normal-gloss-occlusion-iw-mw)
 - Sound Banks | **Saluki**: "Load Sound Banks" Setting
 - 60 FPS Animations | Check if the anim is 30 or 60 FPS
+- Cordycep support | Required to export assets!
 
 ## MW22 (iw9)
 
 - Rig converter (iw7 rig)
-- Split S/A | **TS**: CoD Specular/Albedo (IW/MW)
-- Split N.O.G | **TS**: Normal/Gloss/Occlusion (IW/MW)
+- Split S/A | **TS**: [CoD Specular/Albedo (IW/MW)](tools-programs#cod-specular-albedo-iw-mw)
+- Split N.G.O | **TS**: [Normal/Gloss/Occlusion (IW/MW)](tools-programs#cod-normal-gloss-occlusion-iw-mw)
 - Sound Banks | **Saluki**: "Load Sound Banks" Setting
 - 60 FPS Animations | Check if the anim is 30 or 60 FPS
+- Cordycep support | Required to export assets!
 
 ## MW23 (jup)
 
 - Rig converter (iw7 rig)
-- Split S/A | **TS**: CoD Specular/Albedo (IW/MW)
-- Split N.O.G | **TS**: Normal/Gloss/Occlusion (IW/MW)
+- Split S/A | **TS**: [CoD Specular/Albedo (IW/MW)](tools-programs#cod-specular-albedo-iw-mw)
+- Split N.G.O | **TS**: [Normal/Gloss/Occlusion (IW/MW)](tools-programs#cod-normal-gloss-occlusion-iw-mw)
 - Sound Banks | **Saluki**: "Load Sound Banks" Setting
 - 60 FPS Animations | Check if the anim is 30 or 60 FPS
+- Cordycep support | Required to export assets!
 
 ## BO6 (t10)
 
 - Rig converter (iw7 rig)
-- Split S/A | **TS**: CoD Specular/Albedo (IW/MW)
-- Split N.O.G | **TS**: Normal/Gloss/Occlusion (IW/MW)
+- Split S/A | **TS**: [CoD Specular/Albedo (IW/MW)](tools-programs#cod-specular-albedo-iw-mw)
+- Split N.G.O | **TS**: [Normal/Gloss/Occlusion (IW/MW)](tools-programs#cod-normal-gloss-occlusion-iw-mw)
 - Sound Banks | **Saluki**: "Load Sound Banks" Setting
 - 60 FPS Animations | Check if the anim is 30 or 60 FPS
+- Cordycep support | Required to export assets!
 
 ## BO7 (sat)
 
 - Rig converter (iw7 rig)
-- Split S/A | **TS**: CoD Specular/Albedo (IW/MW)
-- Split N.O.G | **TS**: Normal/Gloss/Occlusion (IW/MW)
+- Split S/A | **TS**: [CoD Specular/Albedo (IW/MW)](tools-programs#cod-specular-albedo-iw-mw)
+- Split N.G.O | **TS**: [Normal/Gloss/Occlusion (IW/MW)](tools-programs#cod-normal-gloss-occlusion-iw-mw)
 - Sound Banks | **Saluki**: "Load Sound Banks" Setting
 - 60 FPS Animations | Check if the anim is 30 or 60 FPS
+- Cordycep support | Required to export assets!
