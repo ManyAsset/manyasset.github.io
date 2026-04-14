@@ -18,8 +18,8 @@ Click on the tool/program in the list below to download them.
 - [ZoneTool](https://github.com/Joelrau/zonetool/tree/quak)
 - [OpenAssetTools](https://github.com/Laupetin/OpenAssetTools)
 - [x64 ZoneTool](https://github.com/Joelrau/x64-zt)
-- [BassDrop](tools/BassDrop.zip)
-- [CascView](tools/CascView.zip)
+- [BassDrop](https://github.com/ManyAsset/manyasset.github.io/blob/main/tutorials/weaponporting/tools/BassDrop.zip)
+- [CascView](https://github.com/ManyAsset/manyasset.github.io/blob/main/tutorials/weaponporting/tools/CascView.zip)
 
 ## Setting Up Maya
 
