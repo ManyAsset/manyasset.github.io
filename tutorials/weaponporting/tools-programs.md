@@ -18,8 +18,8 @@ Click on the tool/program in the list below to download them.
 - [ZoneTool](https://github.com/Joelrau/zonetool/tree/quak)
 - [OpenAssetTools](https://github.com/Laupetin/OpenAssetTools)
 - [x64 ZoneTool](https://github.com/Joelrau/x64-zt)
-- [BassDrop](https://github.com/ManyAsset/manyasset.github.io/blob/main/tutorials/weaponporting/tools/BassDrop.zip)
-- [CascView](https://github.com/ManyAsset/manyasset.github.io/blob/main/tutorials/weaponporting/tools/CascView.zip)
+- [BassDrop](https://github.com/ManyAsset/manyasset.github.io/raw/refs/heads/main/tutorials/weaponporting/tools/BassDrop.zip)
+- [CascView](https://github.com/ManyAsset/manyasset.github.io/raw/refs/heads/main/tutorials/weaponporting/tools/CascView.zip)
 
 ## Setting Up Maya
 
@@ -208,11 +208,11 @@ How to use Texture Smith (TS)!
 
 - When you run Texture Smith for the first time it will look like this.
 
-![alt text](image-1.png)
+![ts_first_open](images/tools-programs/texture-smith/ts_first_open.png)
 
 - You can change the theme of TS by clicking `Dracula` at the bottom right corner, I like Moonfly so I will be show it with that theme from now on, pick whatever you like.
 
-![alt text](image-2.png)
+![ts_pick_theme](images/tools-programs/texture-smith/ts_pick_theme.png)
 
 ##
 
@@ -222,23 +222,23 @@ How to use Texture Smith (TS)!
 
 - In TS Select `Spec/Gloss (RGB/A Split)` in the drop down top left.
 
-![alt text](image-4.png)
+![ts_spec_gloss_split_setting](images/tools-programs/texture-smith/spec-gloss-split/ts_spec_gloss_split_setting.png)
 
 - Once selected, drag and drop the specular into TS.
 
-![alt text](image-5.png)
+![ts_spec_gloss_split_drag_drop](images/tools-programs/texture-smith/spec-gloss-split/ts_spec_gloss_split_drag_drop.png)
 
 - You should see a preview of the converted textures, you can click on the left and right buttons to see both images.
 
-![alt text](image-6.png)
+![ts_spec_gloss_split_preview](images/tools-programs/texture-smith/spec-gloss-split/ts_spec_gloss_split_preview.png)
 
 - When you're ready to export your textures pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted textures should export where you imported them from with _s and _g.
 
-![alt text](image-9.png)
+![ts_spec_gloss_split_output](images/tools-programs/texture-smith/spec-gloss-split/ts_spec_gloss_split_output.png)
 
 - You can now delete the original packed specular and use the split spec and gloss!
 
@@ -250,23 +250,23 @@ How to use Texture Smith (TS)!
 
 - In TS Select `CoD Greyscale XY Normal Map (A/G)` in the drop down top left.
 
-![alt text](image-10.png)
+![ts_greyscale_yx_normal_map_setting](images/tools-programs/texture-smith/greyscale-xy-normal-map/ts_greyscale_yx_normal_map_setting.png)
 
 - Once selected, drag and drop the specular into TS.
 
-![alt text](image-11.png)
+![ts_greyscale_yx_normal_map_drag_drop](images/tools-programs/texture-smith/greyscale-xy-normal-map/ts_greyscale_yx_normal_map_drag_drop.png)
 
 - You should see a preview of the converted texture.
 
-![alt text](image-12.png)
+![ts_greyscale_yx_normal_map_preview](images/tools-programs/texture-smith/greyscale-xy-normal-map/ts_greyscale_yx_normal_map_preview.png)
 
 When you're ready to export your texture pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted texture should export where you imported it from with _normal.
 
-![alt text](image-13.png)
+![ts_greyscale_yx_normal_map_output](images/tools-programs/texture-smith/greyscale-xy-normal-map/ts_greyscale_yx_normal_map_output.png)
 
 - You can now delete the original normal map and use the converted one!
 
@@ -278,23 +278,23 @@ When you're ready to export your texture pick the format you want and click "Sav
 
 - In TS Select `Detail Map Merger` in the drop down top left.
 
-![alt text](image-15.png)
+![ts_detail_map_merger_setting](images/tools-programs/texture-smith/detail-map-merger/ts_detail_map_merger_setting.png)
 
 - Once selected, drag and drop the colour first then the detail map into TS, next set the Detail Intensity to 0.50.
 
-![alt text](image-14.png)
+![ts_detail_map_merger_drag_drop](images/tools-programs/texture-smith/detail-map-merger/ts_detail_map_merger_drag_drop.png)
 
 - You should see a preview of the merged texture.
 
-![alt text](image-16.png)
+![ts_detail_map_merger_preview](images/tools-programs/texture-smith/detail-map-merger/ts_detail_map_merger_preview.png)
 
 - When you're ready to export your texture pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted texture should export where you imported it from with _detailed.
 
-![alt text](image-17.png)
+![ts_detail_map_merger_output](images/tools-programs/texture-smith/detail-map-merger/ts_detail_map_merger_output.png)
 
 You can now delete the original colour and detail map and use the merged one!
 
@@ -306,23 +306,23 @@ You can now delete the original colour and detail map and use the merged one!
 
 - In TS Select `CoD BC5 XY Normal Map` in the drop down top left.
 
-![alt text](image-18.png)
+![ts_bct_xy_normal_map_setting](images/tools-programs/texture-smith/bc5-xy-normal-map/ts_bct_xy_normal_map_setting.png)
 
 - Once selected, drag and drop the normal into TS.
 
-![alt text](image-19.png)
+![ts_bct_xy_normal_map_drag_drop](images/tools-programs/texture-smith/bc5-xy-normal-map/ts_bct_xy_normal_map_drag_drop.png)
 
 - You should see a preview of the converted texture.
 
-![alt text](image-20.png)
+![ts_bct_xy_normal_map_preview](images/tools-programs/texture-smith/bc5-xy-normal-map/ts_bct_xy_normal_map_preview.png)
 
 When you're ready to export your texture pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted texture should export where you imported it from with _normal.
 
-![alt text](image-21.png)
+![ts_bct_xy_normal_map_output](images/tools-programs/texture-smith/bc5-xy-normal-map/ts_bct_xy_normal_map_output.png)
 
 - You can now delete the original normal map and use the converted one!
 
@@ -334,23 +334,23 @@ When you're ready to export your texture pick the format you want and click "Sav
 
 - In TS Select Invert RGB Values in the drop down top left.
 
-![alt text](image-22.png)
+![ts_invert_rgb_values_setting](images/tools-programs/texture-smith/invert-rgb-values/ts_invert_rgb_values_setting.png)
 
 - Once selected, drag and drop the gloss into TS.
 
-![alt text](image-23.png)
+![ts_invert_rgb_values_drag_drop](images/tools-programs/texture-smith/invert-rgb-values/ts_invert_rgb_values_drag_drop.png)
 
 You should see a preview of the converted texture.
 
-![alt text](image-24.png)
+![ts_invert_rgb_values_preview](images/tools-programs/texture-smith/invert-rgb-values/ts_invert_rgb_values_preview.png)
 
 - When you're ready to export your textures pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted textures should export where you imported them from with _inverted.
 
-![alt text](image-25.png)
+![ts_invert_rgb_values_output](images/tools-programs/texture-smith/invert-rgb-values/ts_invert_rgb_values_output.png)
 
 - You can now delete the original gloss and use the inverted one!
 
@@ -362,63 +362,76 @@ You should see a preview of the converted texture.
 
 - In TS Select `Split All Channels (Global)` in the drop down top left.
 
-![alt text](image-27.png)
+![ts_split_all_channels_setting](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_split_all_channels_setting.png)
 
 - Once selected, drag and drop the packed specular into TS.
 
-![alt text](image-39.png)
+![ts_split_all_channels_yellow_spec](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_split_all_channels_yellow_spec.png)
+
 
 - You should see a preview of the converted textures, you can click on the left and right buttons to see all images.
 
-![alt text](image-29.png)
+![ts_split_all_channels_yellow_spec_preview](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_split_all_channels_yellow_spec_preview.png)
+
 
 - When you're ready to export your textures pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted textures should export where you imported them from with _r, _g, _b and _a.
 
-![alt text](image-30.png)
+![ts_split_all_channels_yellow_spec_output](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_split_all_channels_yellow_spec_output.png)
+
 
 - Each texture corresponds to a channel _r is red, _g is green, _b is blue and _a is alpha. Red is specular correction (inverted metallic), green is occlusion, blue is nothing and alpha is roughness
 
 - Start by deleting _b as it's nothing, next _g (occlusion) keep this as you can merge it into the colour, if its full white the material doesn't use it, you can delete it. _r (specular correction (inverted metallic)) is your specular and _a (roughness) is your gloss, you will need to invert both of these.
 
-![alt text](image-31.png)
+![ts_invert_split_r](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_invert_split_r.png)
 
-![alt text](image-32.png)
+
+![ts_invert_split_a](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_invert_split_a.png)
+
 
 - Once both are inverted you can delete the original _r and _a.
 
-![alt text](image-33.png)
+![ts_pbr_invterd_r_a](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_pbr_invterd_r_a.png)
+
 
 - In TS Select `PBR to Colour/Spec/Gloss` in the drop down top left.
 
-![alt text](image-34.png)
+![ts_pbr_to_col_spec_gloss_setting](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_pbr_to_col_spec_gloss_setting.png)
+
 
 - Set colour mask to `0.50` and specular mask to `1.00`
 
+![ts_prb_col_spec_mask_options](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_prb_col_spec_mask_options.png)
+
+
 - Once selected, drag and drop the colour, specular and gloss into TS.
 
-![alt text](image-35.png)
+![ts_pbr_to_col_spec_gloss_drag_drop](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_pbr_to_col_spec_gloss_drag_drop.png)
+
 
 - You should see a preview of the converted textures, you can click on the left and right buttons to see all images.
 
-![alt text](image-36.png)
+![ts_pbr_to_col_spec_gloss_preview](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_pbr_to_col_spec_gloss_preview.png)
+
 
 - When you're ready to export your textures pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - You can now delete the inverted _r and _a and use the converted ones.
 
-![alt text](image-37.png)
+![ts_pbr_to_col_spec_gloss_output](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_pbr_to_col_spec_gloss_output.png)
+
 
 - Unless you're porting this to a game with PBR you can delete the _colour from TS and use the original colour.
 
 - You can now delete the original yellow specular and use the converted ones!
 
-![alt text](image-38.png)
+![ts_pbr_to_col_spec_gloss_delete_unused](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_pbr_to_col_spec_gloss_delete_unused.png)
 
 ##
 
@@ -428,23 +441,23 @@ You should see a preview of the converted texture.
 
 - In TS Select `CoD Specular/Albedo (IW/MW)` in the drop down top left.
 
-![alt text](image-40.png)
+![ts_nml_gloss_occ_iw_mw_settings](images/tools-programs/texture-smith/spec-albedo-iw-mw/ts_nml_gloss_occ_iw_mw_settings.png)
 
 - Once selected, drag and drop the packed specular/albedo into TS.
 
-![alt text](image-41.png)
+![ts_nml_gloss_occ_iw_mw_drag_drop](images/tools-programs/texture-smith/spec-albedo-iw-mw/ts_nml_gloss_occ_iw_mw_drag_drop.png)
 
 - You should see a preview of the converted textures, you can click on the left and right buttons to see both images.
 
-![alt text](image-43.png)
+![ts_nml_gloss_occ_iw_mw_preview](images/tools-programs/texture-smith/spec-albedo-iw-mw/ts_nml_gloss_occ_iw_mw_preview.png)
 
 - When you're ready to export your textures pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted textures should export where you imported them from with _c and _s.
 
-![alt text](image-44.png)
+![ts_nml_gloss_occ_iw_mw_output](images/tools-programs/texture-smith/spec-albedo-iw-mw/ts_nml_gloss_occ_iw_mw_output.png)
 
 - You can now delete the original packed specular/albedo and use the split specular and colour!
 
@@ -456,23 +469,23 @@ You should see a preview of the converted texture.
 
 - In TS Select `CoD Normal/Gloss/Occlusion (IW/MW)` in the drop down top left.
 
-![alt text](image-45.png)
+![ts_nml_gloss_occ_iw_mw_setting](images/tools-programs/texture-smith/nml-gloss-occ-iw-mw/ts_nml_gloss_occ_iw_mw_setting.png)
 
 - Once selected, drag and drop the packed Normal/Gloss/Occlusion into TS.
 
-![alt text](image-46.png)
+![ts_nml_gloss_occ_iw_mw_drag_drop](images/tools-programs/texture-smith/nml-gloss-occ-iw-mw/ts_nml_gloss_occ_iw_mw_drag_drop.png)
 
 - You should see a preview of the converted textures, you can click on the left and right buttons to see all images.
 
-![alt text](image-47.png)
+![ts_nml_gloss_occ_iw_mw_preview](images/tools-programs/texture-smith/nml-gloss-occ-iw-mw/ts_nml_gloss_occ_iw_mw_preview.png)
 
 - When you're ready to export your textures pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted textures should export where you imported them from with _n, _g and _o.
 
-![alt text](image-49.png)
+![ts_nml_gloss_occ_iw_mw_output](images/tools-programs/texture-smith/nml-gloss-occ-iw-mw/ts_nml_gloss_occ_iw_mw_output.png)
 
 - You can now delete the original packed Normal/Gloss/Occlusion and use the split normal, gloss and occlusion!
 
@@ -484,23 +497,23 @@ You should see a preview of the converted texture.
 
 - In TS Select `CoD MW2R Blue Image (S/G/O)` in the drop down top left.
 
-![alt text](image-50.png)
+![ts_mw2r_blue_image_setting](images/tools-programs/texture-smith/mw2r-blue-image/ts_mw2r_blue_image_setting.png)
 
 - Once selected, drag and drop the packed Specular/Gloss/Occlusion into TS.
 
-![alt text](image-51.png)
+![ts_mw2r_blue_image_drag_drop](images/tools-programs/texture-smith/mw2r-blue-image/ts_mw2r_blue_image_drag_drop.png)
 
 - You should see a preview of the converted textures, you can click on the left and right buttons to see all images.
 
-![alt text](image-53.png)
+![ts_mw2r_blue_image_preview](images/tools-programs/texture-smith/mw2r-blue-image/ts_mw2r_blue_image_preview.png)
 
 - When you're ready to export your textures pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted textures should export where you imported them from with _s, _g and _o.
 
-![alt text](image-52.png)
+![ts_mw2r_blue_image_output](images/tools-programs/texture-smith/mw2r-blue-image/ts_mw2r_blue_image_output.png)
 
 - You can now delete the original packed Specular/Gloss/Occlusion and use the split specular, gloss and occlusion!
 
@@ -512,23 +525,23 @@ You should see a preview of the converted texture.
 
 - In TS Select `CoD WW2 Green Image (S/O/G)` in the drop down top left.
 
-![alt text](image-54.png)
+![ts_ww2_green_image_setting](images/tools-programs/texture-smith/ww2-green-image/ts_ww2_green_image_setting.png)
 
 - Once selected, drag and drop the packed Specular/Gloss/Occlusion into TS.
 
-![alt text](image-55.png)
+![ts_ww2_green_image_drag_drop](images/tools-programs/texture-smith/ww2-green-image/ts_ww2_green_image_drag_drop.png)
 
 - You should see a preview of the converted textures, you can click on the left and right buttons to see all images.
 
-![alt text](image-56.png)
+![ts_ww2_green_image_preview](images/tools-programs/texture-smith/ww2-green-image/ts_ww2_green_image_preview.png)
 
 - When you're ready to export your textures pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted textures should export where you imported them from with _s, _o and _g.
 
-![alt text](image-57.png)
+![ts_ww2_green_image_output](images/tools-programs/texture-smith/ww2-green-image/ts_ww2_green_image_output.png)
 
 - You can now delete the original packed Specular/Occlusion/Gloss and use the split specular, occlusion and gloss!
 
@@ -540,23 +553,23 @@ You should see a preview of the converted texture.
 
 - In TS Select `CoD WW2 Split Colour/Specular` in the drop down top left.
 
-![alt text](image-58.png)
+![ts_split_col_spec_setting](images/tools-programs/texture-smith/ww2-split-col-spec/ts_split_col_spec_setting.png)
 
 - Once selected, drag and drop the colour and unpacked specular into TS.
 
-![alt text](image-59.png)
+![ts_split_col_spec_drag_drop](images/tools-programs/texture-smith/ww2-split-col-spec/ts_split_col_spec_drag_drop.png)
 
 - You should see a preview of the converted textures, you can click on the left and right buttons to see all images.
 
-![alt text](image-62.png)
+![ts_split_col_spec_preview](images/tools-programs/texture-smith/ww2-split-col-spec/ts_split_col_spec_preview.png)
 
 - When you're ready to export your textures pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted textures should export where you imported them from with _c and _s.
 
-![alt text](image-61.png)
+![ts_split_col_spec_output](images/tools-programs/texture-smith/ww2-split-col-spec/ts_split_col_spec_output.png)
 
 - You can now delete the original colour and unpacked specular and use the new _c and _s
 
@@ -568,23 +581,27 @@ You should see a preview of the converted texture.
 
 - In TS Select `C/S/O Merger` in the drop down top left.
 
-![alt text](image-63.png)
+![ts_c_s_o_merger_setting](images/tools-programs/texture-smith/c-s-o-merger/ts_c_s_o_merger_setting.png)
 
 - Once selected, drag and drop the colour, specular and occlusion into TS.
 
-![alt text](image-64.png)
+![ts_c_s_o_merger_drag_drop](images/tools-programs/texture-smith/c-s-o-merger/ts_c_s_o_merger_drag_drop.png)
+
+- Set AO Contrast to 1.00 and specular Intensity to 0.50
+
+![ts_c_s_o_merger_options](images/tools-programs/texture-smith/c-s-o-merger/ts_c_s_o_merger_options.png)
 
 - You should see a preview of the converted texture.
 
-![alt text](image-65.png)
+![ts_c_s_o_merger_preview](images/tools-programs/texture-smith/c-s-o-merger/ts_c_s_o_merger_preview.png)
 
 - When you're ready to export your texture pick the format you want and click "Save outputs".
 
-![alt text](image-8.png)
+![ts_output_format](images/tools-programs/texture-smith/ts_output_format.png)
 
 - Your converted textures should export where you imported them from with _baked.
 
-![alt text](image-66.png)
+![ts_c_s_o_merger_output](images/tools-programs/texture-smith/c-s-o-merger/ts_c_s_o_merger_output.png)
 
 - You can now delete the original colour and use the _baked one!
 
