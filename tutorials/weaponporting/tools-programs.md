@@ -545,6 +545,8 @@ You should see a preview of the converted texture.
 
 - You can now delete the original packed Specular/Occlusion/Gloss and use the split specular, occlusion and gloss!
 
+- *Please note the occlusion from this packed texture is a cavity map (another type of AO), so use the exported _o for normal occlusion.*
+
 ##
 
 ### CoD WW2 Split Colour/Specular
