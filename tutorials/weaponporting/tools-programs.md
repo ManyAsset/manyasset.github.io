@@ -358,7 +358,7 @@ You should see a preview of the converted texture.
 
 ### PBR to Colour/Spec/Gloss
 
-- How to convert Yellow Specular
+- How to convert Yellow/Green Specular
 
 - In TS Select `Split All Channels (Global)` in the drop down top left.
 
