@@ -385,15 +385,11 @@ You should see a preview of the converted texture.
 
 - Each texture corresponds to a channel _r is red, _g is green, _b is blue and _a is alpha. Red is specular correction (inverted metallic), green is occlusion, blue is nothing and alpha is roughness
 
-- Start by deleting _b as it's nothing, next _g (occlusion) keep this as you can merge it into the colour, if its full white the material doesn't use it, you can delete it. _r (specular correction (inverted metallic)) is your specular and _a (roughness) is your gloss, you will need to invert both of these.
+- Start by deleting _b as it's nothing, next _g (occlusion) keep this as you can merge it into the colour, if its full white the material doesn't use it, you can delete it. _r (specular correction (inverted metallic)) is your specular and _a (roughness) is your gloss, you will need to invert the specular.
 
 ![ts_invert_split_r](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_invert_split_r.png)
 
-
-![ts_invert_split_a](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_invert_split_a.png)
-
-
-- Once both are inverted you can delete the original _r and _a.
+- Once the specular is inverted you can delete the original _r.
 
 ![ts_pbr_invterd_r_a](images/tools-programs/texture-smith/pbr-to-col-spec-gloss/ts_pbr_invterd_r_a.png)
 
